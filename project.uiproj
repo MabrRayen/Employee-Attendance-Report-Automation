@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_RH_Reporting",
+  "ProjectType": "Process",
+  "Description": "Processus vierge",
+  "MainFile": "Main.xaml"
+}
